@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/tools/selenium-server-standalone-2.49.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/selenium-2.49.1/selenium-java-2.49.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/selenium-2.49.1/selenium-java-2.49.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/tools/jsr-223-1.0-pr.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Android.Image.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Core.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Fuzzy.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Graph.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Image.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.IO.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.MachineLearning.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Math.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Neuro.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Signal.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Statistics.jar"/>
+	<classpathentry kind="lib" path="D:/tools/Libs/Catalano.Vision.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
