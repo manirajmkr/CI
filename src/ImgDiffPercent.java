@@ -27,7 +27,7 @@ public class ImgDiffPercent
 	 {
 		WebDriver driver=new FirefoxDriver();
 	//Load the url	
-		driver.get("https://cas.ny.us.criteo.com/delivery/rtb/appnexus/display.aspx?creative=6128408");	
+		driver.get("http://publish.rcc.bps-core.com/creative_preview/rtb/2271/46/d9/46d96486d2e7514aed5f3b739fcca765.html");	
 		getScreenshot(driver, 0, 0);
 	//Get Master image
 		long startTime = System.nanoTime();
